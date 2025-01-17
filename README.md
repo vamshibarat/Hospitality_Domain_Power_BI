@@ -2,8 +2,6 @@
 
 The Hospitality_Domain_Power_BI Project involves Different Views Like Revenue Overview, Revenue by City, Revenue by Property for the Different teams in the company So that they utilise the data and get the useful insights from it. It also helps the stakeholder to make data driven decision making.
 
-Video Presentation: https://youtu.be/6i5zyQog96M
-
 Power BI Live Public View: https://app.powerbi.com/view?r=eyJrIjoiODg1YmY1ODYtMjRjNS00ZmFiLWJiNzctN2RjOWQ5YmI3MWZkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 𝗟𝗲𝗮𝗿𝗻𝘁 𝗧𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸𝘀 ➡ SQL ➡ PowerBi Desktop ➡ Excel ➡ DAX language ➡ DAX studio (for optimizing the report) ➡ Project charter file
