@@ -1,4 +1,4 @@
-Presentation Video : https://lnkd.in/giUYPY3m
+# Presentation Video : https://lnkd.in/giUYPY3m
 # Hospitality_Domain_Power_BI
 
 The Hospitality_Domain_Power_BI Project involves Different Views Like Revenue Overview, Revenue by City, Revenue by Property for the Different teams in the company So that they utilise the data and get the useful insights from it. It also helps the stakeholder to make data driven decision making.
